@@ -1,0 +1,21 @@
+Araştırma için bazı siteler;
+1-) Devdocs.io
+2-) W3schools.com
+3-) mozilla developer network
+4-) waybackmachine.org (sitelerin eski hallerini kontrol etmek için)
+5-) https://docs.emmet.io/cheat-sheet/ (Emmet kısayolları)
+6-) https://unicode-table.com/en/ (Html içerisine eklenebilecek karakterler)
+
+<h1,2,3,4,5,6> </h> kodları ile başlık belirtilebilir. <h1>'den başlayarak giderek küçülür.
+
+<br> ile sayfadaki iki ifade arasına dikey olarak boşluk konabilir.
+
+<hr> ile sayfaya yatay çizgi eklenebilir. <hr size="3"> gibi bir ifade ile büyüklüğü değiştirilebilir.
+
+<center> </center> kodu arasına alınan ifade sitede ortalanarak yazılır.
+
+<!-- yazılmak istenen not --> Kodu ile sayfada gözükeyecek şekilde not alınabilir.
+
+<meta name="description" content="açıklama"> kodu ile google arama sonucunda çıkan açıklama belirtilir.
+
+<p> </p> kodu ile body içerisine paragraf yazılabilir.
